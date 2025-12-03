@@ -1,0 +1,2 @@
+# SVM_NurLydyaAzizah_2457201002379
+Prediksi kelulusan mahasiswa menggunakan Support Vector Machine
